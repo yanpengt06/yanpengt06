@@ -5,7 +5,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Type-C06)
 [![Zhihu](https://img.shields.io/badge/-Zhihu-blue?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/typ-24-69)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=C&logoColor=white)](https://blog.csdn.net/Tong_yanpeng)
-
+[![GMail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yanpengt06@gmail.com)
+	
 Welcome to my Github page! I am Type-C and I am currently finishing my third year of Soft Engineering Bachelor degree at HIT!  
 
 
