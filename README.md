@@ -9,11 +9,16 @@ Welcome to my Github page! I am Type-C and I am currently finishing my third yea
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 
+#### 😃 Things I am interested in:
+- NLP
+- Web Service Development
+
 
 #### 🌱 Things I am currently working on: 
 - Finish my Degree  
 - Taking CS224N and dive into deep learning
-- Prepare for the Master Degree [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Prepare for the Master Degree 🚀 
+
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
