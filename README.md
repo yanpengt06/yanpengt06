@@ -7,25 +7,25 @@
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=C&logoColor=white)](https://blog.csdn.net/Tong_yanpeng)
 [![GMail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yanpengt06@gmail.com)
 	
-Welcome to my Github page! I am Type-C and I am currently finishing my third year of Soft Engineering Bachelor degree at HIT!  
+Welcome to my Github page! For more info about me, please go to my [homepage](https://type-c06.github.io/about/).
 
 
 #### 😃 Things I am interested in:
 - NLP
+- Sentiment Analysis
 - Web Service Development
 
 
 #### 🌱 Things I am currently working on: 
 
 - Finish my Degree  
-- Taking CS224N and dive into deep learning
-- Prepare for the Master Degree 🚀 
+- Take CS224N and hands on pretrained model(PTM)
 
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 2 hours a day
-- Exercising 3 days a week
+- Exercising 2 days a week
 - polishing my CV with some research and academic competition
 - Write blogs and share knowledge
 
