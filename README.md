@@ -23,10 +23,10 @@ Welcome to my Github page! For more info about me, please go to my [homepage](ht
 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 2 hours a day
-- Exercising 2 days a week
-- polishing my CV with some research and academic competition
+- Wake up earlier to make good use of the day
+- Code at least 2 hours a day
+- Exercise 2 days a week
+- polish my CV with some research and academic competition
 - Write blogs and share knowledge
 
 #### :computer: Programming languages and tools: 
