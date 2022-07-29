@@ -1,13 +1,13 @@
 ### Hi there 👋 
-### This is Type-C!
+### This is Yanpeng Tong's Github Page!
 ### <sub>Reach Me By<sub/>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Type-C06)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yanpengt06)
 [![Zhihu](https://img.shields.io/badge/-Zhihu-blue?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/typ-24-69)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=C&logoColor=white)](https://blog.csdn.net/Tong_yanpeng)
 [![GMail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yanpengt06@gmail.com)
 	
-Welcome to my Github page! For more info about me, please go to my [homepage](https://type-c06.github.io/about/).
+Welcome to my Github page! For more info about me, please go to my [homepage](https://yanpengt06.github.io/about/).
 
 
 #### 😃 Things I am interested in:
@@ -24,7 +24,7 @@ Welcome to my Github page! For more info about me, please go to my [homepage](ht
 
 #### :muscle: Things I am challenging myself with:
 - Wake up earlier to make good use of the day
-- Code at least 2 hours a day
+- Code at least 1 hour a day
 - Exercise 2 days a week
 - polish my CV with some research and academic competition
 - Write blogs and share knowledge
