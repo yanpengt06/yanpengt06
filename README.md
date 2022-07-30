@@ -30,7 +30,7 @@ Welcome to my Github page! For more info about me, please go to my [homepage](ht
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=Type-C06&show_icons=true" width="50%" height="auto"/>
+	<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=yanpengt06&show_icons=true" width="50%" height="auto"/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
