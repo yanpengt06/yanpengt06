@@ -17,8 +17,9 @@ Welcome to my Github page! For more info about me, please go to my [homepage](ht
 
 #### 🌱 Things I am currently working on: 
 
-- Finish my Degree  
-- Take CS224N and hands on pretrained model(PTM)
+- Learn and practice on Large Language Model(LLM)  
+- Empathetic Dialogue based on LLM
+- finish my degree
 
 
 #### :muscle: Things I am challenging myself with:
