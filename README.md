@@ -6,7 +6,7 @@
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=C&logoColor=white)](https://blog.csdn.net/Tong_yanpeng)
 [![GMail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yanpengt06@gmail.com)
 	
-Welcome to my Github page! For more info about me, please go to my [homepage](https://yanpengt06.github.io/about/).
+Welcome to my Github page! For more info about me, please go to my [homepage](https://yanpengt06.github.io).
 
 
 #### 😃 Things I am interested in:
